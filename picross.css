@@ -1,0 +1,33 @@
+body
+{
+
+}
+
+canvas
+{
+      background-color:white;
+      border: 0px solid black;
+}
+table
+{
+      border-collapse:collapse;
+}
+
+td
+{
+      width:16;
+      height:18;
+      font-size: 12;
+      text-align:center;
+}
+
+.alinhamento
+{
+      text-align:left;
+      vertical-align:top;
+}
+
+.alargamento
+{
+      width: 100;
+}
